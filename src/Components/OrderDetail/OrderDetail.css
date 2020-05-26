@@ -1,0 +1,26 @@
+h1 { padding-top: 25px; }
+.order-detail {
+  position: relative;
+}
+.order-detail .uk-section {
+  padding: 20px 25px;
+}
+
+.order-detail .close-detail {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.order-detail .note-form button {
+  margin-top: 10px;
+}
+
+.order-detail .order-action-buttons {
+  position: absolute;
+  bottom: 25px;
+}
+
+.order-detail .order-action-buttons button {
+  margin-right: 5px;
+}

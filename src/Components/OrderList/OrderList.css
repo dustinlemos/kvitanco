@@ -1,0 +1,8 @@
+.order-list th,
+.order-list button { white-space: nowrap; }
+.order-list tr { cursor: pointer; }
+.order-list .uk-dropdown { 
+  padding: 10px 15px;
+  min-width: 150px;
+}
+.order-list button .uk-icon { margin: 0 10px 0 0; }
